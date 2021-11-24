@@ -81,3 +81,18 @@ C#
 업데이트를 통해 퀄리트를 높이고 있다.
 
 난이도 중
+
+## 설치
+
+Google Unity 검색 → Unity Hub 다운로드
+
+- Unity Hub : 유니티의 버전을 관리해주는 플랫폼(버전이 매우 많음)
+- 버전 호환을 잘 안해주는 단점이 있다. → 버전을 잘 맞춰서 프로젝트를 진행해야 한다.
+
+권장 LTS를 설치하는 것을 추천!
+
+- Microsoft Visual Studio Community 설치(미설치인 경우)
+- 윈도우인 경우 Android Build Support 설치(Android SDK & NDK Tools, OpenJDK 설치)
+- Documentation 설치
+
+아이폰에서 빌드하려면 맥북을 사용해야 하고 윈도우에서는 안드로이드만 빌드 가능하다.
